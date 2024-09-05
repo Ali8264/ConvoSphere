@@ -1,5 +1,5 @@
-# Memories
-"Memories" is a vibrant MERN (MongoDB, Express.js, React, Node.js) stack web application designed for users to encapsulate and share their life moments effortlessly. 
+# ConvoSphere
+"ConvoSphere" is a vibrant MERN (MongoDB, Express.js, React, Node.js) stack web application designed for users to encapsulate and share their life moments effortlessly. 
 CRUD Operations: Users can Create, Read, Update, and Delete posts.
 Post Interactions: Liking functionality enables users to express their appreciation for posts.
 Commenting: Users can engage by commenting on other users' posts.
