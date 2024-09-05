@@ -6,4 +6,4 @@ Commenting: Users can engage by commenting on other users' posts.
 Search and Filter: Enables users to search memories and posts by tags or keywords.
 Google Authentication: Provides secure login via Google accounts.
 Pagination: Allows for organized browsing through paginated content.
-User Profiles: Personalized profiles for users, possibly displaying their posts and interactions.
+User Profiles: Personalized profiles for users, possibly displaying their posts and interactions etc.
